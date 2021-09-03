@@ -1,2 +1,2 @@
 # ecommerce
-just another e
+just another e-commerce
